@@ -1,0 +1,9 @@
+N  Language    ISO-639 codeText                          
+------------------------------------------------------------
+1  english     en          Have nice day                 
+2  french      fr          Passe une bonne journée       
+3  ukrainian   uk          Гарного дня                   
+4  spanish     es          Que tengas un buen día        
+5  german      de          Habt einen schönen Tag        
+6  italian     it          Buona giornata                
+7  portuguese  pt          Tenha um bom dia              
